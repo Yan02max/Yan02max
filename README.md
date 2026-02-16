@@ -1,70 +1,63 @@
-
-<!--
-**Yan02max/Yan02max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h1 align="center">👋 Hola, soy Yan Carlos</h1>
-
-<h3 align="center">💻 Estudiante | 🚀 Futuro Cientifico De Datos | 📚 Siempre aprendiendo</h3>
-
----
-
-## 🌈 Sobre mí
-
-- 🎓 Actualmente aprendiendo **Python, NumPy y Pandas**
-- 🧠 Me gusta resolver problemas y mejorar cada día
-- 🔥 Enfocado en crecer como desarrollador
-- 🌎 Desde República Dominicana
-
----
-
-## 🚀 Tecnologías que estoy aprendiendo
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-</p>
-
----
-
-## 📊 Mis estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
-## 🔥 Racha de contribuciones
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=radical" />
-</p>
-
----
-
-## 🐍 Snake de contribuciones (animado)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📫 Conecta conmigo
+<h1 align="center">Yan Carlos</h1>
+<h3 align="center">Data Analyst | Python | Pandas | Data Visualization | Business Intelligence</h3>
 
 <p align="center">
   <a href="https://github.com/Yan02max">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=Yan02max&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
 ---
 
-## 🎯 Frase que me representa
+## 👨‍💻 Professional Summary
 
-> "El código de hoy es el éxito de mañana."
+Data Analyst with a strong focus on transforming raw data into actionable insights.  
+Passionate about statistical analysis, data visualization, and solving real-world business problems through data-driven decision-making.
+
+- 📊 Data Cleaning & Exploration  
+- 📈 Dashboard Development  
+- 🧠 Statistical Analysis  
+- 🐍 Python for Data Science  
+  
+---
+
+## 🛠 Technical Stack
+
+### 📌 Programming & Query Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+### 📊 Data & Visualization Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=tableau,excel" />
+</p>
+
+### 🧰 Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-⭐ Gracias por visitar mi perfil ⭐
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yan02max&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan02max&layout=compact&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Yan02max&theme=default&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Sales Data Analysis**  
+Exploratory data analysis and visualization of sale
