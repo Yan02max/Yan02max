@@ -84,7 +84,7 @@ Mentalidad analítica, disciplinado y orientado al crecimiento profesional conti
     <img src="https://img.shields.io/badge/Instagram-Red Social-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="751603026166284438utm_source=share_via&utm_content=profile&utm_medium=member_iosutm_source=share_via&utm_content=profile&utm_medium=member_ios">
+  <a href="751603026166284438">
     <img src="https://img.shields.io/badge/Discord-Data_Network-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
