@@ -24,7 +24,7 @@ Focused on transforming raw datasets into structured, meaningful insights that s
 
 Highly disciplined, analytical thinker, and committed to continuous improvement.
 
-### 🇪🇸 Español
+### 🇩🇴 Español
 
 Analista de Datos en formación con bases sólidas en Python y análisis numérico.  
 Enfocado en convertir datos sin procesar en información estratégica para la toma de decisiones empresariales.
