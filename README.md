@@ -1,39 +1,40 @@
 <h1 align="center">Yan Carlos</h1>
-<h3 align="center">Data Analyst | Python | Pandas | Data Visualization | Business Intelligence</h3>
+<h3 align="center">Data Analyst in Progress | Python | SQL | Data Visualization</h3>
 
 <p align="center">
-  <a href="https://github.com/Yan02max">
-    <img src="https://komarev.com/ghpvc/?username=Yan02max&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1600&auto=format&fit=crop" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yan02max&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About Me
 
-Data Analyst with a strong focus on transforming raw data into actionable insights.  
-Passionate about statistical analysis, data visualization, and solving real-world business problems through data-driven decision-making.
+🎓 Self-driven learner focused on Data Analysis  
+📊 Currently mastering Python and NumPy  
+🧠 Passionate about transforming raw data into meaningful insights  
+🚀 Building strong foundations in statistics and business intelligence  
+🌎 Based in Dominican Republic  
 
-- 📊 Data Cleaning & Exploration  
-- 📈 Dashboard Development  
-- 🧠 Statistical Analysis  
-- 🐍 Python for Data Science  
-  
 ---
 
-## 🛠 Technical Stack
+## 🛠 Tech Stack
 
-### 📌 Programming & Query Languages
+### 📌 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### 📊 Data & Visualization Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=tableau,excel" />
-</p>
+### 📊 Data Tools & Libraries
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
 
-### 🧰 Development Tools
+### 🧰 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
@@ -43,21 +44,47 @@ Passionate about statistical analysis, data visualization, and solving real-worl
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yan02max&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan02max&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yan02max&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan02max&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yan02max&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Yan02max&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Current Focus
 
-🔹 **Sales Data Analysis**  
-Exploratory data analysis and visualization of sale
+- Strengthening Python for Data Analysis  
+- Writing efficient NumPy operations  
+- Improving data cleaning workflows  
+- Preparing for advanced SQL  
+
+---
+
+## 🎯 Professional Vision
+
+To become a highly skilled Data Analyst capable of:
+
+- Extracting actionable insights from complex datasets  
+- Building dashboards that support strategic decisions  
+- Applying statistical thinking to real-world problems  
+
+---
+
+## 📬 Connect With Me
+
+<p>
+  <a href="https://github.com/Yan02max">
+    <img src="https://img.shields.io/badge/GitHub-Yan02max-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+> “Data turns information into intelligence.”
