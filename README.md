@@ -65,3 +65,28 @@ Mentalidad analítica, disciplinado y orientado al crecimiento profesional conti
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.a
+
+---
+
+# 🌐 Professional Network | Red Profesional
+
+<p align="center">
+
+  <a href="https://github.com/Yan02max">
+    <img src="https://img.shields.io/badge/GitHub-Yan02max-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/TU_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-Portfolio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/users/TU_DISCORD_ID">
+    <img src="https://img.shields.io/badge/Discord-Data_Network-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+</p>
+
