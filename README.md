@@ -1,90 +1,67 @@
 <h1 align="center">Yan Carlos</h1>
-<h3 align="center">Data Analyst in Progress | Python | SQL | Data Visualization</h3>
+<h3 align="center">Data Analyst | Python | SQL (In Progress) | Business Intelligence</h3>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1600&auto=format&fit=crop" width="100%" />
+  <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=600&auto=format&fit=crop" width="180" style="border-radius:50%;" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yan02max&label=Profile%20Views&color=0e75b6&style=flat" />
+  <b>Transforming Data into Strategic Decisions</b>
 </p>
-
----
-
-## 👨‍💻 About Me
-
-🎓 Self-driven learner focused on Data Analysis  
-📊 Currently mastering Python and NumPy  
-🧠 Passionate about transforming raw data into meaningful insights  
-🚀 Building strong foundations in statistics and business intelligence  
-🌎 Based in Dominican Republic  
-
----
-
-## 🛠 Tech Stack
-
-### 📌 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### 📊 Data Tools & Libraries
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yan02max&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan02max&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://komarev.com/ghpvc/?username=Yan02max&label=Profile%20Views&color=1f6feb&style=flat" />
 </p>
 
 ---
 
-## 📈 Contribution Streak
+# 👨‍💼 Professional Profile | Perfil Profesional
+
+### 🇺🇸 English
+
+Data Analyst in development with strong foundations in Python and numerical computation.  
+Focused on transforming raw datasets into structured, meaningful insights that support business decision-making.
+
+Highly disciplined, analytical thinker, and committed to continuous improvement.
+
+### 🇪🇸 Español
+
+Analista de Datos en formación con bases sólidas en Python y análisis numérico.  
+Enfocado en convertir datos sin procesar en información estratégica para la toma de decisiones empresariales.
+
+Mentalidad analítica, disciplinado y orientado al crecimiento profesional continuo.
+
+---
+
+# 📊 Core Competencies | Competencias Clave
+
+- Data Cleaning & Wrangling (Pandas, NumPy)
+- Exploratory Data Analysis (EDA)
+- Data Visualization (Matplotlib, Seaborn)
+- KPI Analysis
+- Business-Oriented Thinking
+- Statistical Foundations
+- SQL (Currently advancing)
+
+---
+
+# 🛠 Technical Stack
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yan02max&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Current Focus
+# 📈 Live Data Flow Animation
 
-- Strengthening Python for Data Analysis  
-- Writing efficient NumPy operations  
-- Improving data cleaning workflows  
-- Preparing for advanced SQL  
-
----
-
-## 🎯 Professional Vision
-
-To become a highly skilled Data Analyst capable of:
-
-- Extracting actionable insights from complex datasets  
-- Building dashboards that support strategic decisions  
-- Applying statistical thinking to real-world problems  
-
----
-
-## 📬 Connect With Me
-
-<p>
-  <a href="https://github.com/Yan02max">
-    <img src="https://img.shields.io/badge/GitHub-Yan02max-black?style=for-the-badge&logo=github" />
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-> “Data turns information into intelligence.”
+# 📊 GitHub Performance Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.a
