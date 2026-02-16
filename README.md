@@ -80,7 +80,7 @@ Mentalidad analítica, disciplinado y orientado al crecimiento profesional conti
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/TU_INSTAGRAM">
+  <a href="https://www.instagram.com/daurylf?igsh=cWxkeGRsdDdoNWt5&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-Portfolio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
