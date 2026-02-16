@@ -76,7 +76,7 @@ Mentalidad analítica, disciplinado y orientado al crecimiento profesional conti
     <img src="https://img.shields.io/badge/GitHub-Yan02max-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/yan-carlos-jimenez-178840264?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
