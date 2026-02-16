@@ -2,10 +2,6 @@
 <h3 align="center">Data Analyst | Python | SQL (In Progress) | Business Intelligence</h3>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=600&auto=format&fit=crop" width="180" style="border-radius:50%;" />
-</p>
-
-<p align="center">
   <b>Transforming Data into Strategic Decisions</b>
 </p>
 
@@ -53,7 +49,7 @@ Mentalidad analítica, disciplinado y orientado al crecimiento profesional conti
 
 ---
 
-# 📈 Live Data Flow Animation
+# 📈 Live Data Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
